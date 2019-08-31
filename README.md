@@ -16,4 +16,4 @@ En lo que va corrido del año 97000 hogares nuevos tienen mascotas y esto se va 
 •	Mayor agilidad en el tiempo de atención 
 •	Mayor seguridad en la información. 
 
-•	Diagrama del proceso de ingeniería de software donde evidencie el problema a abordar: cualquier diagrama del proceso de análisis de software que sustente o explique el flujo de trabajo de la solución. (casos de uso, diagrama de flujo, diagrama de maquinas de estado, diagrama de clases, diagrama de componentes ...)
+
